@@ -7,6 +7,7 @@
   padding: 0;
   z-index: 1;
 }
+
 .swiper-container-vertical > .swiper-wrapper {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
